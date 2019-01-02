@@ -1,7 +1,7 @@
 # 20HomeworkDOM
 20 Homework for MateAcademy
 
-**GitHub Pages** you can find [there](https://platoniux.github.io/20HomeworkDOM/ "GitHub Pages for this repo").
+**GitHub Pages** you can find [there](https://platoniux.github.io/20Homework_DOM/ "GitHub Pages for this repo").
 
 **Attention!!!**
 
