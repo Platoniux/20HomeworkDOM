@@ -7,4 +7,4 @@
 
 **GitHub Pages of 8 TASK** you can find [there](https://platoniux.github.io/AncestryTask20_8/app "GitHub Pages for this repo").
 
-**Repo of 8 Task** [there](https://github.com/Platoniux/AncestryTask20.8)
+**Repo of 8 Task** [there](https://github.com/Platoniux/AncestryTask20_8)
