@@ -1,10 +1,8 @@
 var a = document.querySelector('a');
 
-logAttributes(a);
-
-function logAttributes(elem) {
+function getAttributes(elem) {
   var attributeOfElem = elem.attributes;
-  for(var i = 0; i < attributeOfElem.length; i++) {
-    console.log(attributeOfElem[i].value);
-  }
+  [].forEach.call(attributeOfElem, function(item, i, arr) {
+    console.log(arr[i].value);
+  });
 }

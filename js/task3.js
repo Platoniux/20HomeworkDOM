@@ -8,7 +8,7 @@ function createSpanInBlockById(blockID) {
   var span = document.createElement('span');
   var parent = document.getElementById(blockID);
   var elemChild = parent.children;
-  if (![].every.call(elemChild, ifThereExistSpan)) {
+  if (![].some.call(elemChild, ifThereExistSpan)) {
     parent.appendChild(span);
   } else {
     console.log('Element already exist');
